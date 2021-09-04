@@ -11,9 +11,11 @@ pipeline {
   }
 
   stages {
-    
+
     stage('Docker login') {
-      sh "docker login -u ${DOCKER_USER} -p ${DOCKER_TOKEN} docker.io"
+      steps {
+        sh "docker login -u ${DOCKER_USER} -p ${DOCKER_TOKEN} docker.io"
+      }
     }
 
     stage('Build docker image') {
