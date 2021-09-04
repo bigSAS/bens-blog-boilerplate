@@ -13,9 +13,9 @@ export default {}
         <img
           class="navbar-logo-image"
           src="/img/avatar.jpg"
-          alt="Sas Kodzi"
+          alt="saskodzi"
         />
-        SAS-Kodzi
+        saskodzi.pl
       </nuxt-link>
     </div>
     <div class="navbar-item-wrapper">
