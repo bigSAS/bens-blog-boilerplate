@@ -16,9 +16,9 @@ Czyli mogę sobie zdefiniować np. słownik dla państw. Kluczami będą dwu-lit
 
 ```python
 countries = {
-    'PL': 'Poland',
-    'EN': 'England',
-    'FR': 'France'
+  'PL': 'Poland',
+  'EN': 'England',
+  'FR': 'France'
 }
 ```
 
@@ -37,13 +37,13 @@ myotherdict = dict()
 
 ```python
 jimmy = {
-    'first_name': 'jim',
-    'last_name': 'choo',
-    'age': 33,
-    'address': {
-        'street': 'sezamee street',
-        'building': 999
-    }
+  'first_name': 'jim',
+  'last_name': 'choo',
+  'age': 33,
+  'address': {
+    'street': 'sezamee street',
+    'building': 999
+  }
 }
 ```
 

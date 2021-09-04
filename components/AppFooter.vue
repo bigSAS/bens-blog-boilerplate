@@ -18,8 +18,9 @@ export default {
   <footer class="footer">
     <SocialMediaBar />
     <p class="text-center">
-      © SAS-Kodzi {{ currentYear }}. Made with
-      <a href="https://www.nuxtjs.org">NuxtJS</a> 💚.
+      © saskodzi {{ currentYear }}. Made with
+      <a href="https://www.nuxtjs.org">NuxtJS</a> 💚. 
+      ✉️ tmajk@saskodzi.pl
     </p>
   </footer>
 </template>

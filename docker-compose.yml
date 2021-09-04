@@ -1,8 +1,8 @@
 version: "3"
 services:
-  sas-kodzi-blog:
+  app:
     container_name: sas-kodzi-blog 
-    image: sas-kodzi-blog:latest
+    image: bigsas/saskodzi-blog:${IMG_TAG:-latest}
     restart: always
     build:
       context: .

@@ -12,10 +12,14 @@ export default {
           name: 'GitHub',
           url: 'https://github.com/bigSAS'
         },
-        {
-          name: 'YouTube',
-          url: 'https://youtube.com/channel/UCLAyO0wf5T5aABjjSl7sXUg'
-        }
+        // {
+        //   name: 'YouTube',
+        //   url: 'https://youtube.com/channel/UCLAyO0wf5T5aABjjSl7sXUg'
+        // },
+        // {
+        //   name: 'Email',
+        //   url: 'mailto:tmajk@saskodzi.pl'
+        // }
       ]
     }
   }
